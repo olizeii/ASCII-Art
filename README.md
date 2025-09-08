@@ -1,5 +1,5 @@
 # ASCII-Art
-**different ASCII-Art Projects, picture to ASCII, Video to ASCII, etc**
+**ASCII-Art Projects, picture to ASCII, Video to ASCII, etc**
 
 
 Commands in picture-in-ASCII-V1.py:
