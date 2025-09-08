@@ -2,10 +2,15 @@
 **ASCII-Art Projects, picture to ASCII, Video to ASCII, etc**
 
    ___   _    _ ____ ___ _    _ __   _  ___
+   
   / _ \ | |  | |__  /  _| |  | |   \| |/  _|
+  
  / / \ \| |  | | / /| |_| |  | | |\ \ |  /
+ 
  \ \_/ /| |__| |/ /_| |_| |_ | | | \  |  \_
+ 
   \___/ |____|_|____|___|_|_||_|_|  \_|\___|
+  
 
 
 Commands in picture-in-ASCII-V1.py:
