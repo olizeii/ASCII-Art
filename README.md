@@ -11,6 +11,9 @@ Windows:
 add:
 
 > --invert //to invert the picture
+
 > --charset //to change the Charset you want to use
+
 > --aspect //to change the hight
+
 > -o //to save the file/ ending: .txt
