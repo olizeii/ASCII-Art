@@ -1,5 +1,4 @@
 # ASCII-Art
-**picture to ASCII**
 
 
 ```
@@ -10,7 +9,7 @@
   \___/ |____|_|____|___|_|_||_|_|  \_|\___|
 ```
 
-
+**picture to ASCII**
 
 Commands in picture-in-ASCII-V1.py:
 
