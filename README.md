@@ -1,5 +1,5 @@
 # ASCII-Art
-**ASCII-Art Projects, picture to ASCII, Video to ASCII, etc**
+**picture to ASCII**
 
 
 ```
@@ -9,6 +9,8 @@
  \ \_/ /| |__| |/ /_| |_| |_ | | | \  |  \_
   \___/ |____|_|____|___|_|_||_|_|  \_|\___|
 ```
+
+
 
 Commands in picture-in-ASCII-V1.py:
 
